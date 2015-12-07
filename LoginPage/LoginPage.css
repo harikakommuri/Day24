@@ -11,22 +11,22 @@ body {
 }
 .images {
   float: right;
-  width: 60%;
   height: 300px;
   margin-top:130px;
-  border: 2px solid white;
   opacity: 0.9;
+  width: 60%;
 }
 .form {
   float: left;
-  width: 400px;
   height: 450px;
   margin-top:60px;
   padding-left: 20px;
   padding-bottom: 10px;
   padding-right: 30px;
+  width: 400px;
 }
 .login {
+  border: 2px solid white;
   background-color: #6C9AB5;
 }
 .using  {
@@ -34,29 +34,29 @@ body {
   width: 20px;
 }
 .forgot {
-  float: left;
   color: blue;
+  float: left;
 }
 .signup {
-  float: right;
   color: blue;
+  float: right;
 }
 .loginButton {
   background: blue;
   color: white;
+  font-size: 20px;
   height: 30px;
+  left: 40px;
   margin: 0 auto;
   position: relative;
-  left: 40px;
   width: 80%;
-  font-size: 20px;
 }
 .or {
   background: #dcdcdc;
   border-radius: 60%;
+  left:180px;
   position: relative;
   top:-18px;
-  left:180px;
 }
 .images p {
   text-decoration: underline;
@@ -71,14 +71,14 @@ body {
   font-size: 55px;
 }
 input {
-  width: 60%;
-  height: 21px;
   border-radius: 0%;
+  height: 21px;
   margin-left: 20px;
+  width: 60%;
 }
 lable {
-  padding: 20px;
   font-size: 17px;
+  padding: 20px;
 }
 .signinButton
 {
