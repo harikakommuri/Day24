@@ -1,0 +1,96 @@
+.page {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #E7D8EE;
+  background-image: url(workshop.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.images {
+  float: right;
+  width: 60%;
+  height: 300px;
+  margin-top:130px;
+  border: 2px solid white;
+  opacity: 0.9;
+}
+.form {
+  float: left;
+  width: 400px;
+  height: 450px;
+  margin-top:60px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+}
+.login {
+  background-color: #6C9AB5;
+}
+.using  {
+  height: 20px;
+  width: 20px;
+}
+.forgot {
+  float: left;
+  color: blue;
+}
+.signup {
+  float: right;
+  color: blue;
+}
+.loginButton {
+  background: blue;
+  color: white;
+  height: 30px;
+  margin: 0 auto;
+  position: relative;
+  left: 40px;
+  width: 80%;
+  font-size: 20px;
+}
+.or {
+  background: #dcdcdc;
+  border-radius: 60%;
+  position: relative;
+  top:-18px;
+  left:180px;
+}
+.images p {
+  text-decoration: underline;
+}
+#needAccount {
+  color: white;
+  font-size: 15px;
+  font-weight: bolder;
+}
+#signupnow {
+  color: #ffd770;
+  font-size: 55px;
+}
+input {
+  width: 60%;
+  height: 21px;
+  border-radius: 0%;
+  margin-left: 20px;
+}
+lable {
+  padding: 20px;
+  font-size: 17px;
+}
+.signinButton
+{
+  background: #cd5c5c;
+  color: white;
+  left: 5px;
+  position: relative;
+}
+.fblogin
+{
+  background: #4169e1;
+  color: white;
+  left: 200px;
+  position: relative;
+}
